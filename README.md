@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning BERT architecture for large language modals<br>🎯 Goals: I'm dreaming with an AGI like the one in the unborn<br>🎲 Fun fact: I'm an arch user</p>
+<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning BERT architecture for large language modals<br>🎯 Goals: I'm dreaming of an AGI like the one in The Unborn (David Shobin).<br>🎲 Fun fact: I'm an arch user</p>
 
 ###
 
